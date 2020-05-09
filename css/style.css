@@ -1,9 +1,13 @@
 /*============================================================================================
                 Common styles
  =============================================================================================*/
+
 button:focus {
   outline: none; }
 
+html{
+  scroll-behavior: smooth;
+}
 body {
   font-family: 'Dosis', sans-serif;
   overflow-x: hidden; }
